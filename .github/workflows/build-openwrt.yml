@@ -35,7 +35,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        target: [Lienol_RM2100]
+        target: [Mortal_RM2100]
 
         # [Lede_source,Lienol_source,Mortal_source,openwrt_amlogic]
 
